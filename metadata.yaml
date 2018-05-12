@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43794#My-Religion
 gutenberg_issued: '2013-09-22'
 gutenberg_type: Text
 identifiers:
